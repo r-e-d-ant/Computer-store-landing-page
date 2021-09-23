@@ -4,7 +4,7 @@ This a landing page of a computer store website(Front end). built using HTML/CSS
 • check live demo here: https://eloquent-kilby-bf0208.netlify.app
  hosted at Netlify.
  
- * See screenshots below
+ * See all the screenshots below
  
  Home section
  ------------
