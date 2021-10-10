@@ -1,8 +1,7 @@
 # Computer-store-website
 
 This a landing page of a computer store website(Front end). built using HTML/CSS, JavaScript.<br>
-• check live demo here: https://eloquent-kilby-bf0208.netlify.app
- hosted at Netlify.
+[Live Site](https://eloquent-kilby-bf0208.netlify.app)
  
  * See all the screenshots below
  
